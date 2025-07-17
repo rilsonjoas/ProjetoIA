@@ -1,0 +1,15 @@
+# Ignorar a pasta de datasets de imagens
+datasets/
+
+# Ignorar arquivos temporários do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais (se você criar um dentro da pasta)
+/venv/
+/.venv/
+/env/
+/.env/
