@@ -1,5 +1,6 @@
 # Ignorar a pasta de datasets de imagens
 datasets/
+dados_gerados/
 
 # Ignorar arquivos temporários do Jupyter Notebook
 .ipynb_checkpoints/
